@@ -9,3 +9,12 @@ var siblingNumber = 0
 var isSingle = false
 var isFemale = true
 var isRich = false
+
+schoolName = "UC Berkeley"
+programName = "LLM"
+className = "Computer Crime Law"
+
+console.log(schoolName)
+console.log(programName)
+console.log(className)
+console.log("The above is my assignment for Data Type")
